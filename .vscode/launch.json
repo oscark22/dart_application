@@ -1,0 +1,15 @@
+{
+    "configurations": [
+    {
+        "name": "Development",
+        "type": "dart",
+        "request": "launch",
+        "program": "bin/development.dart"
+    },
+    {
+        "name": "Production",
+        "type": "dart",
+        "request": "launch",
+        "program": "bin/production.dart"
+    },
+]}
